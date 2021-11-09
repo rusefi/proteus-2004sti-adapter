@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "rusefi_1-1376430-0_135pin")(type "Legacy")(uri "${KIPRJMOD}/libs/rusefi_1-1376430-0_135pin.lib")(options "")(descr ""))
+)
